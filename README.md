@@ -1,4 +1,4 @@
-# Guia de Bolso sobre consultas com PostgreSQL
+# Guia de bolso sobre consultas com PostgreSQL
 ### Treinamento Básico
 
 Criei este documento me baseando em experiências técnicas da área e em informações encontradas pela internet, esse treinamento é baseado em perguntas e respostas com uma boa pitada de "mão na massa". **:D**
